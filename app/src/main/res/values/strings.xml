@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Productivity App</string>
+    <string name="notes">NOTES</string>
+    <string name="textview">TextView</string>
+    <string name="time">TextView</string>
+    <string name="AddNote">TODO</string>
+
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="save">SAVE</string>
+    <string name="showTitle">ShowTitle</string>
+    <string name="showDescription">ShowDescription</string>
+    <string name="DateAndTime">TextView</string>
+    <string name="add_new_note">ADD NEW NOTE</string>
+</resources>
